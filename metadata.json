@@ -1,0 +1,6 @@
+{
+  "name": "Synthetiq Anime & Manga Modules Hub",
+  "description": "Curated module repository, distribution server, and live sandbox runner for Anime and Manga providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

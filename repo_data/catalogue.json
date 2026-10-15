@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "repositoryId": "synthetiq-official-modules",
+  "name": "Synthetiq Modules",
+  "enabled": true,
+  "defaultModules": {
+    "video": "anikoto-v4",
+    "image": "weebcentral-v2"
+  },
+  "bundleVersion": 147,
+  "bundleFile": "bundles/Synthetiq-Module-Bundle-147.zip",
+  "minAppVersion": "8.0.0",
+  "modules": [],
+  "total": 0
+}
